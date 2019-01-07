@@ -1,0 +1,5 @@
+It's a test
+1.create a file
+2.add to stage
+3.commit to local repositories
+4.push to remote repositories
