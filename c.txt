@@ -1,1 +1,2 @@
 c.txt and b.txt are in same folder
+Creating a new branch is quick.
